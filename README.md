@@ -1,6 +1,6 @@
 # Hello 👋
 
-I make discord bots, full stack applications, and random scripts to increase my QOL in TypeScript, Python & Golang.
+I make discord bots, full stack applications, and random scripts in TypeScript, Python & Golang.
 
 ## Contact 
 
